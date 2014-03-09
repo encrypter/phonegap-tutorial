@@ -5,7 +5,7 @@
          A simple employee directory application
     </description>
     <author email="pawel.samsel@gmail.com" href="http://creanimation.org">
-        Paweł Samsel
+        Pawel Samsel
     </author>
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
